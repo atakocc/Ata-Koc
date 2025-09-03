@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
-title: Salih'in Ana Sayfası
+title: Ata'nın Ana Sayfası
 description: Projelerimi ve notlarımı paylaştığım mini site
