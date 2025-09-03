@@ -1,7 +1,11 @@
 Ata Koç
 
- # Githup Pages
+#About me
+I am a 15 year old hisar school student.
 
- This website is my website where my projects and my portfolio could be seen.
 
- ## Computer Science
+#Tic Tac Toe
+This is my first project scratch tic tac toe.
+I wrote a code from scratch to make the tic tac toe game.
+
+![Scratch Project](assets/tictactoe.png)
